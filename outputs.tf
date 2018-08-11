@@ -29,6 +29,3 @@ output "public_instance_ips" {
   value = "${module.compute.server_ip}"
 }
 
-output "key_main" {
-  value = "${module.compute.key}"
-}

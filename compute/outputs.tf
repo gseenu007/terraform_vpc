@@ -6,6 +6,4 @@ output "server_id" {
 output "server_ip" {
   value = "${join(", ", aws_instance.tf_server.*.public_ip)}"
 }
-output "key" {
-  value = "${var.public_key_path}"
-}
+
