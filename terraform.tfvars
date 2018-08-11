@@ -14,3 +14,4 @@ instance_count = 2
 #added recently
 aws_access_key = "AKIAJO2VUYQPL6UNCL5Q"
 aws_secret_key = "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"
+#-----
