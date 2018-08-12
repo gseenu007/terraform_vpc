@@ -7,6 +7,8 @@ variable "aws_access_key" {}
 #---Storage Variables---
 variable "project_name" {}
 
+# added a comment
+
 #---Networking Variables----
 variable "vpc_cidr" {}
 
